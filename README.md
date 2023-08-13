@@ -1,4 +1,12 @@
-### Hi there 👋
+# Hello, I am Bryan Rodriguez :kissing:
+
+- I´m work in **MultimediaCorp**
+- **I´m a developer jr**
+- I’m currently learning about use git and github in own projects :flushed:
+
+
+
+
 
 <!--
 **BryanRodriguezMMC/BryanRodriguezMMC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
