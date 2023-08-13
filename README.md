@@ -1,4 +1,4 @@
-# Hello, I am Bryan Rodriguez :kissing:
+# Hello, I'm Bryan Rodriguez :kissing:
 
 - I work at **Multimedia Corporativa**
 - **I´m a junior developer**
