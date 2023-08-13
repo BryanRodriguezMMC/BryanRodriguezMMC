@@ -1,8 +1,8 @@
 # Hello, I am Bryan Rodriguez :kissing:
 
-- I´m work in **MultimediaCorp**
-- **I´m a developer jr**
-- I’m currently learning about use git and github in own projects :flushed:
+- I work at **Multimedia Corporativa**
+- **I´m a junior developer**
+- I’m currently learning how to use git and github for my own projects :flushed:
 
 
 
